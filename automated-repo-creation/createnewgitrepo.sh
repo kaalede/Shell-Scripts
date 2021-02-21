@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-echo "Script de connexion automatique à Github"
+echo "Création d'un nouveau repo git automatique"
 /usr/bin/python3 ~/Dev/Python/bot-internet/automation-repo-creation/main.py
 exit
